@@ -30,7 +30,16 @@ public class BranchManagerController
 		List  list=service.getinvoiceproductstock();
 		return list;
 	}
-	
+	/*ye dosti hum nahi todenge
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * */
 	@RequestMapping(value="/getBranchProductStock")
 	public List getBranchProductStock() {
 		
